@@ -7,4 +7,4 @@ I'm always learning Java and making new things everyday for myself or for other 
 I'm also learning [Skript](https://github.com/SkriptLang/Skript)
 
 You can contact me on Discord: dovide
-or Telegram: @DavideLao
+or Telegram: [@DavideLao](https://t.me/davidelao)
