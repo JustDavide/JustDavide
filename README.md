@@ -4,5 +4,7 @@
 
 I'm always learning Java and making new things everyday for myself or for other people
 
+I'm also currently working as a Jr. Developer on [CoralMC](https://coralmc.it)
+
 You can contact me on Discord: dovide
-or Telegram: [@DavideL06](https://t.me/DavideL06)
+or Telegram: [@Dovide6](https://t.me/Dovide6)
