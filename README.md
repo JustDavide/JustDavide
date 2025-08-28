@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm A Developer currently studying some stuff.
+# I'm A Developer and a Student!
 
 I'm always learning Java and making new things everyday for myself or for other people
 
